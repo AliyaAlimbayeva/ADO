@@ -1,0 +1,26 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Orders]
+       [dbo].[Products]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[Orders] (Check Constraint)
+     Table rebuild
+       [dbo].[Orders] (Table)
+       [dbo].[Products] (Table)
+     Create
+       Check Constraint: unnamed constraint on [dbo].[Orders] (Check Constraint)
+       [dbo].[GetAllOrders] (Procedure)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_Orders_Products] (Foreign Key)
+     Create
+       [dbo].[FK_Orders_Products] (Foreign Key)

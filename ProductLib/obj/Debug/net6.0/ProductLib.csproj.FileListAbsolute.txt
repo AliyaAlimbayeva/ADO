@@ -1,0 +1,12 @@
+D:\Course\13 Task\ADO\ProductLib\bin\Debug\net6.0\ProductLib.deps.json
+D:\Course\13 Task\ADO\ProductLib\bin\Debug\net6.0\ProductLib.dll
+D:\Course\13 Task\ADO\ProductLib\bin\Debug\net6.0\ProductLib.pdb
+D:\Course\13 Task\ADO\ProductLib\obj\Debug\net6.0\ProductLib.csproj.AssemblyReference.cache
+D:\Course\13 Task\ADO\ProductLib\obj\Debug\net6.0\ProductLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\13 Task\ADO\ProductLib\obj\Debug\net6.0\ProductLib.AssemblyInfoInputs.cache
+D:\Course\13 Task\ADO\ProductLib\obj\Debug\net6.0\ProductLib.AssemblyInfo.cs
+D:\Course\13 Task\ADO\ProductLib\obj\Debug\net6.0\ProductLib.csproj.CoreCompileInputs.cache
+D:\Course\13 Task\ADO\ProductLib\obj\Debug\net6.0\ProductLib.dll
+D:\Course\13 Task\ADO\ProductLib\obj\Debug\net6.0\refint\ProductLib.dll
+D:\Course\13 Task\ADO\ProductLib\obj\Debug\net6.0\ProductLib.pdb
+D:\Course\13 Task\ADO\ProductLib\obj\Debug\net6.0\ref\ProductLib.dll

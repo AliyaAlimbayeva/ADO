@@ -1,0 +1,6 @@
+D:\Course\13 Task\ADO\ADODB\bin\Debug\ADODB.dacpac
+D:\Course\13 Task\ADO\ADODB\obj\Debug\ADODB.sqlproj.AssemblyReference.cache
+D:\Course\13 Task\ADO\ADODB\obj\Debug\ADODB.dll
+D:\Course\13 Task\ADO\ADODB\obj\Debug\ADODB.pdb
+D:\Course\13 Task\ADO\ADODB\bin\Debug\ADODB.dll
+D:\Course\13 Task\ADO\ADODB\bin\Debug\ADODB.pdb
